@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm A. K. M. Masudur Rahman</h1>
-<h3 align="center">A passionate full-stack developer and research enthusiast from Bangladesh</h3>
+# 💫 Hi 👋, A. K. M. Masudur Rahman
+**A passionate Cloud & DevOps Engineer || AI/ML Researcher || Full-Stack Developer From Bangladesh**
+Email Me 👉 ✉️ **akmmasudurrahmangaurab@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 I’m currently working on **Research projects in AI, ML, NLP, and Image Processing; building end-to-end software and web apps.**
-
-- 🌱 I’m currently learning **Advanced deep learning architectures, modern NLP transformers, and scalable system design.**
-
-- 👯 I’m looking to collaborate on **Research-driven projects in Computer Vision, NLP, and applied ML; AI for social good, education, transportation, and public safety.**
-
-- 🤝 I’m looking for help with **Advanced research methodologies, experimental design, and scaling prototypes to deployable systems.**
-
-- 💬 Ask me about **AI & ML research, dataset creation, image processing, NLP projects, full-stack web development, and software system design.**
-
-- 📫 How to reach me **akmmasudurrahmangaurab@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning research ideas into fully working systems—and yes, I do think I’m funny 😄**
+- 🔭 **I’m currently working on:** Research projects in AI, ML, NLP, and Image Processing; building end-to-end software and web apps.
+- 🌱 **I’m currently learning:** Advanced deep learning architectures, modern NLP transformers, and scalable system design.
+- 👯 **I’m looking to collaborate on:** Research-driven projects in Computer Vision, NLP, and applied ML; AI for social good, education, transportation, and public safety.
+- 🤔 **I’m looking for help with:** Advanced research methodologies, experimental design, and scaling prototypes to deployable systems.
+- 💬 **Ask me about:** AI & ML research, dataset creation, image processing, NLP projects, full-stack web development, and software system design.
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Nicknames:** Gaurab
+- ⚡ **Fun fact:** I enjoy turning research ideas into fully working systems—and yes, I do think I’m funny 😄
 
 <!-- Snake Game Repo View -->
 
@@ -23,7 +19,7 @@
 
 
 # 💫 About Me:
-I am A. K. M. Masudur Rahman, a Computer Science and Engineering student from Bangladesh with a strong passion for research and real-world problem solving. My primary interests lie in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and Image Processing, with a particular focus on computer vision and applied machine learning for social good. I actively engage in research-driven projects involving image processing, NLP, custom dataset creation, rigorous model evaluation, and experimental analysis using real-world data. Alongside my research work, I am a skilled web and software developer who enjoys building complete applications from scratch and designing original, well-structured systems to support research and practical deployment. My long-term goal is to publish journal-quality research, develop impactful AI solutions for local and global challenges, and grow as a researcher and engineer contributing to domains such as education, transportation, and public safety.
+I am A. K. M. Masudur Rahman, a final year Computer Science and Engineering student from Bangladesh with a strong passion for research and real-world problem solving. My primary interests lie in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and Image Processing, with a particular focus on computer vision and applied machine learning for social good. I actively engage in research-driven projects involving image processing, NLP, custom dataset creation, rigorous model evaluation, and experimental analysis using real-world data. Alongside my research work, I am a skilled web and software developer who enjoys building complete applications from scratch and designing original, well-structured systems to support research and practical deployment. My long-term goal is to publish journal-quality research, develop impactful AI solutions for local and global challenges, and grow as a researcher and engineer contributing to domains such as education, transportation, and public safety.
 
 
 # 🌐 Socials:
