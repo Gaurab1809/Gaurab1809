@@ -15,11 +15,12 @@
 
 - ⚡ Fun fact **I enjoy turning research ideas into fully working systems—and yes, I do think I’m funny 😄**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-![Image](https://github.com/user-attachments/assets/a4c6b1d1-0699-4be1-b0bd-90fa9a3948f0)
 
 # 💫 About Me:
 I am A. K. M. Masudur Rahman, a Computer Science and Engineering student from Bangladesh with a strong passion for research and real-world problem solving. My primary interests lie in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and Image Processing, with a particular focus on computer vision and applied machine learning for social good. I actively engage in research-driven projects involving image processing, NLP, custom dataset creation, rigorous model evaluation, and experimental analysis using real-world data. Alongside my research work, I am a skilled web and software developer who enjoys building complete applications from scratch and designing original, well-structured systems to support research and practical deployment. My long-term goal is to publish journal-quality research, develop impactful AI solutions for local and global challenges, and grow as a researcher and engineer contributing to domains such as education, transportation, and public safety.
