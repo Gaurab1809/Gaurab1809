@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am A. K. M. Masudur Rahman, a Computer Science and Engineering student from Bangladesh with a strong passion for research and real-world problem solving. My primary interests lie in Artificial Intelligence, Machine Learning, Natural Language Processing (NLP), and Image Processing, with a particular focus on computer vision and applied machine learning for social good. I actively engage in research-driven projects involving image processing, NLP, custom dataset creation, rigorous model evaluation, and experimental analysis using real-world data. Alongside my research work, I am a skilled web and software developer who enjoys building complete applications from scratch and designing original, well-structured systems to support research and practical deployment. My long-term goal is to publish journal-quality research, develop impactful AI solutions for local and global challenges, and grow as a researcher and engineer contributing to domains such as education, transportation, and public safety.
 
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/pacman-gba-d9QiBcfzg64Io](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNobzVzbzl1dXl5OTU0NXNhd2JxejJrNmhwcTQ1YTJseWp0eWJ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif)">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Akm. Masudur Rahman Gaurab) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/A.K.M. Masudur Rahman Gaurab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/A. K. M. Masudur Rahman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Info Man) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akmmasudurrahmangaurab@gmail.com) 
@@ -21,18 +22,3 @@ I am A. K. M. Masudur Rahman, a Computer Science and Engineering student from Ba
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-
-
-
-
-
-### Pac-Man Contribution Graph Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.gif" 
-       alt="Pac-Man Contribution Graph Animation" 
-       width="600" 
-       height="150"/>
-</div>
