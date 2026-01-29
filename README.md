@@ -13,13 +13,7 @@ I am A. K. M. Masudur Rahman, a Computer Science and Engineering student from Ba
 ![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
----
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
