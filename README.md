@@ -19,3 +19,20 @@ I am A. K. M. Masudur Rahman, a Computer Science and Engineering student from Ba
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+### Pac-Man Contribution Graph Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.gif" 
+       alt="Pac-Man Contribution Graph Animation" 
+       width="600" 
+       height="150"/>
+</div>
