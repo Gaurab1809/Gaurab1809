@@ -15,6 +15,14 @@
 
 - ⚡ Fun fact **I enjoy turning research ideas into fully working systems—and yes, I do think I’m funny 😄**
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 ![Image](https://github.com/user-attachments/assets/a4c6b1d1-0699-4be1-b0bd-90fa9a3948f0)
 
 # 💫 About Me:
