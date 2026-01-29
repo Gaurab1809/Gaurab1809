@@ -4,7 +4,7 @@ I am A. K. M. Masudur Rahman, a Computer Science and Engineering student from Ba
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 ## 🌐 Socials:
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/a. k. m. masudur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a. k. m. masudur rahman" height="30" width="40" /></a>
 <a href="https://kaggle.com/akmmasudurrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akmmasudurrahman" height="30" width="40" /></a>
 <a href="https://fb.com/akm. masudur rahman gaurab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akm. masudur rahman gaurab" height="30" width="40" /></a>
