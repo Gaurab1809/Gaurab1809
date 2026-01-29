@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **I enjoy turning research ideas into fully working systems—and yes, I do think I’m funny 😄**
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ![Image](https://github.com/user-attachments/assets/a4c6b1d1-0699-4be1-b0bd-90fa9a3948f0)
 
