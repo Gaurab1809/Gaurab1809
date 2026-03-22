@@ -1,3 +1,8 @@
+<div align="center">
+  <img align="" alt="Coding" width="" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there!+It's+A. K. M. Masudur Rahman;" alt="Typing SVG" />
+</div>
+
 <h1 align="center"> 💫 Hi 👋, A. K. M. Masudur Rahman</h1>
 
 <h3 align="center"> A passionate Cloud & DevOps Engineer || AI/ML Researcher || Full-Stack Developer From Bangladesh</h3>
