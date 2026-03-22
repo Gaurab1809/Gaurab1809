@@ -1,22 +1,38 @@
 <div align="center">
   <img align="" alt="Coding" width="" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there!+It's+A.+K.+M.+Masudur+Rahman;" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Cloud+%26+DevOps+Engineer;" />
+
+
+<!-- 🔹 Dynamic Typing Role Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&weight=900&duration=2200&pause=600&color=FF6EC7&center=true&vCenter=true&width=1000&height=60&lines=A+passionate+Cloud+%26+DevOps+Engineer;AI%2FML+Researcher;Full-Stack+Developer+From+Bangladesh;" />
+</p>
+
+
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Cloud-Architecture-0A66C2?style=for-the-badge&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-Automation-FF6EC7?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/AI%2FML-Research-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Data-Science-20bf6b?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <!-- Full-stack -->
+  <img src="https://img.shields.io/badge/FullStack-Developer-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Frontend-React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 </div>
 
-<h3 align="center"> A passionate Cloud & DevOps Engineer || AI/ML Researcher || Full-Stack Developer From Bangladesh</h3>
 
----
-Email Me 👉 ✉️ **akmmasudurrahmangaurab@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Research projects in AI, ML, NLP, and Image Processing; building end-to-end software and web apps.
-- 🌱 **I’m currently learning:** Advanced deep learning architectures, modern NLP transformers, and scalable system design.
-- 👯 **I’m looking to collaborate on:** Research-driven projects in Computer Vision, NLP, and applied ML; AI for social good, education, transportation, and public safety.
-- 🤔 **I’m looking for help with:** Advanced research methodologies, experimental design, and scaling prototypes to deployable systems.
-- 💬 **Ask me about:** AI & ML research, dataset creation, image processing, NLP projects, full-stack web development, and software system design.
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Nicknames:** Gaurab
-- ⚡ **Fun fact:** I enjoy turning research ideas into fully working systems—and yes, I do think I’m funny 😄
+🔭 I’m currently working on Research projects in AI, ML, NLP, and Image Processing; building end-to-end software and web apps  
+👯 Looking to collaborate on Research-driven projects in Computer Vision, NLP, and applied ML; AI for social good, education, transportation, and public safety  
+🤝 Looking for help with Advanced research methodologies, experimental design, and scaling prototypes to deployable systems  
+🌱 Currently learning Advanced deep learning architectures, modern NLP transformers, and scalable system design  
+💬 Ask me about AI & ML research, dataset creation, image processing, NLP projects, full-stack web development, and software system design  
+⚡ Fun fact: I believe “Ctrl + Z” is the ultimate life skill  
+🦦 Motto: “If it works, I’ll call it a feature.”
+📬 Email Me 👉 ✉️ akmmasudurrahmangaurab@gmail.com For Collaboration/Project or Anything Else. 😊
 
 <!-- Snake Game Repo View -->
 
