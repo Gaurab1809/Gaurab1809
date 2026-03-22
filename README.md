@@ -24,15 +24,28 @@
 </p>
 </div>
 
+---
 
-🔭 I’m currently working on Research projects in AI, ML, NLP, and Image Processing; building end-to-end software and web apps  
-👯 Looking to collaborate on Research-driven projects in Computer Vision, NLP, and applied ML; AI for social good, education, transportation, and public safety  
-🤝 Looking for help with Advanced research methodologies, experimental design, and scaling prototypes to deployable systems  
-🌱 Currently learning Advanced deep learning architectures, modern NLP transformers, and scalable system design  
-💬 Ask me about AI & ML research, dataset creation, image processing, NLP projects, full-stack web development, and software system design  
+### 💼 Current Work & Interests
+🔭 I’m currently working on: Research projects in AI, ML, NLP, and Image Processing; building end-to-end software and web apps  
+👯 Looking to collaborate on: Research-driven projects in Computer Vision, NLP, and applied ML; AI for social good, education, transportation, and public safety  
+🤝 Looking for help with: Advanced research methodologies, experimental design, and scaling prototypes to deployable systems  
+🌱 Currently learning: Advanced deep learning architectures, modern NLP transformers, and scalable system design  
+💬 Ask me about: AI & ML research, dataset creation, image processing, NLP projects, full-stack web development, and software system design  
+
+---
+
+### ⚡ Fun & Quirky
 ⚡ Fun fact: I believe “Ctrl + Z” is the ultimate life skill  
 🦦 Motto: “If it works, I’ll call it a feature.”
-📬 Email Me 👉 ✉️ akmmasudurrahmangaurab@gmail.com For Collaboration/Project or Anything Else. 😊
+
+---
+
+### 📬 Contact
+Email Me 👉 ✉️ **akmmasudurrahmangaurab@gmail.com** For Collaboration/Project or Anything Else. 😊  
+🌐 Portfolio: [akmmasudurrahman.com](https://gaurabsportfolio.lovable.app)
+
+---
 
 <!-- Snake Game Repo View -->
 
