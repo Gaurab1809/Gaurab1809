@@ -28,24 +28,40 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 💼 Current Work & Interests
-- 🔭 I’m currently working on: Research projects in AI, ML, NLP, and Image Processing; building end-to-end software and web apps🛠️  
-- 👯 Looking to collaborate on: Research-driven projects in Computer Vision, NLP, and applied ML; AI for social good, education, transportation, and public safety🌍  
-- 🤝 Looking for help with: Advanced research methodologies, experimental design, and scaling prototypes to deployable systems🧪  
-- 🌱 Currently learning: Advanced deep learning architectures, modern NLP transformers, and scalable system design📚  
-- 💬 Ask me about: AI & ML research, dataset creation, image processing, NLP projects, full-stack web development, and software system design💡
+- 🔭 **I’m currently working on:** Research projects in AI, ML, NLP, and Image Processing; building end-to-end software and web apps🛠️  
+- 👯 **Looking to collaborate on:** Research-driven projects in Computer Vision, NLP, and applied ML; AI for social good, education, transportation, and public safety🌍  
+- 🤝 **Looking for help with:** Advanced research methodologies, experimental design, and scaling prototypes to deployable systems🧪  
+- 🌱 **Currently learning:** Advanced deep learning architectures, modern NLP transformers, and scalable system design📚  
+- 💬 **Ask me about:** AI & ML research, dataset creation, image processing, NLP projects, full-stack web development, and software system design💡
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=28&duration=7000&pause=1000&width=800&lines=Interested+in+Research+and+Development;Loves+Working+on+Social+and+Educational+Usecases" alt="Typing SVG">
+  </a>
+</div>
+
+<p align="center">
+  I love discussing tech, finance, or anything that uplifts communities. If you're building something interesting or want to contribute, let's connect! Your support helps maintain open-source projects and spark new ideas.
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### ⚡ Humor & Life 😄💻
-🎉 Fun fact: I believe “Ctrl + Z” is the ultimate life skill ⌨️  
-🦦 Motto: “If it works, I’ll call it a feature 🚀”
+🎉 **Fun fact:** I believe “Ctrl + Z” is the ultimate life skill ⌨️  
+🦦 **Motto:** “If it works, I’ll call it a feature 🚀”
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+### 🌱 What I'm Passionate About
+- **AI That Empowers:** Creating tools that make developers & students more productive.  
+- **Open Tech for Impact:** Advancing healthcare and finance education through accessible AI-driven innovations.  
+- **Community-Driven Innovation:** Collaborating with global developers to tackle real-world challenges with AI.  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### 📬 Contact
-👉 ✉️ Email Me:  **akmmasudurrahmangaurab@gmail.com** For Collaboration/Project or Anything Else. 😊  
-🌐 Portfolio: [akmmasudurrahman.com](https://gaurabsportfolio.lovable.app) 🌟
+👉 ✉️ **Email Me:**  **akmmasudurrahmangaurab@gmail.com** For Collaboration/Project or Anything Else. 😊  
+🌐 **Portfolio:** [akmmasudurrahman.com](https://gaurabsportfolio.lovable.app) 🌟
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
