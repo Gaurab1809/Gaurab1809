@@ -61,7 +61,7 @@
 
 ### 📬 Contact
 👉 ✉️ **Email Me:**  **akmmasudurrahmangaurab@gmail.com** For Collaboration/Project or Anything Else. 😊  
-🌐 **Portfolio:** [akmmasudurrahman.com](https://gaurabsportfolio.lovable.app) 🌟
+🌐 **Portfolio:** [akmmasudurrahman.com](https://github.com/Gaurab1809/gaurab1809.github.io) 🌟
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
